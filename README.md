@@ -1,2 +1,2 @@
 # OSAssignment
-Round Robin with priority and First Come First Serve scheduling algorithms
+Algorithm schedulings for my group's Operating System's project
